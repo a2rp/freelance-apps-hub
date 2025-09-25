@@ -1,4 +1,4 @@
-import{d as l,G as r,j as e,M as h}from"./index-C8aQdFLu.js";const o={Wrapper:l.div`
+import{d as l,G as r,j as e,M as h}from"./index-DsKw9zVT.js";const o={Wrapper:l.div`
         padding: 24px;
 
         h1 {
