@@ -1,4 +1,4 @@
-import{d,r as c,j as t}from"./index-BV2CQozX.js";const y="var(--text, #eaeaea)",I="var(--muted, #a8a8a8)",p="var(--border, #242424)",K="var(--accent, #22c55e)",Q="var(--danger, #ef4444)",V="var(--radius, 16px)",Z="var(--shadow, 0 8px 28px rgba(0,0,0,0.30))",n={};n.Wrapper=d.div`
+import{d,r as c,j as t}from"./index-BGR_15Z5.js";const y="var(--text, #eaeaea)",I="var(--muted, #a8a8a8)",p="var(--border, #242424)",K="var(--accent, #22c55e)",Q="var(--danger, #ef4444)",V="var(--radius, 16px)",Z="var(--shadow, 0 8px 28px rgba(0,0,0,0.30))",n={};n.Wrapper=d.div`
     max-width: var(--maxw, 1100px);
     margin: 0 auto;
     padding: 24px 16px 32px;
