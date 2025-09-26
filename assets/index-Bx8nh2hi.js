@@ -1,4 +1,4 @@
-import{d as n,r as a,j as t}from"./index-C94JCSfT.js";const I="var(--card, #111)",j="var(--text, #e9e9e9)",d="var(--muted, #b7b7b7)",h="var(--border, #222)",g="var(--accent, #22c55e)",C="var(--radius, 16px)",M=n.div`
+import{d as n,r as a,j as t}from"./index-BV2CQozX.js";const I="var(--card, #111)",j="var(--text, #e9e9e9)",d="var(--muted, #b7b7b7)",h="var(--border, #222)",g="var(--accent, #22c55e)",C="var(--radius, 16px)",M=n.div`
     color: ${j};
     padding: var(--space-5, 32px) var(--space-4, 24px);
 `,O=n.div`
