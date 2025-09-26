@@ -1,4 +1,4 @@
-import{d as s,r as p,j as t}from"./index-DO_P-_mt.js";const u="var(--text, #eaeaea)",f="var(--muted, #a8a8a8)",x="var(--border, #242424)",M="var(--accent, #22c55e)",P="var(--danger, #ef4444)",F="var(--radius, 16px)",L="var(--shadow, 0 8px 28px rgba(0,0,0,0.30))",A="var(--maxw, 1100px)",e={};e.Wrapper=s.div`
+import{d as s,r as p,j as t}from"./index-DbNsUkis.js";const u="var(--text, #eaeaea)",f="var(--muted, #a8a8a8)",x="var(--border, #242424)",M="var(--accent, #22c55e)",P="var(--danger, #ef4444)",F="var(--radius, 16px)",L="var(--shadow, 0 8px 28px rgba(0,0,0,0.30))",A="var(--maxw, 1100px)",e={};e.Wrapper=s.div`
     color: ${u};
     background: #000; /* keep dark shell parity */
     min-height: 100vh;
